@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guitar Chord Viewer</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; display: flex; height: 100vh; overflow: hidden; background-color: #1e1e1e; color: #f5f5f5; }
+        #sidebar { width: 300px; border-right: 1px solid #333; display: flex; flex-direction: column; background: #252526; }
+        #search-box { padding: 15px; border-bottom: 1px solid #333; }
+        #search-box input { width: 100%; padding: 10px; background: #3c3c3c; border: 1px solid #555; color: white; border-radius: 4px; font-size: 14px; }
+        #song-list { flex: 1; overflow-y: auto; list-style: none; }
+        #song-list li { padding: 12px 15px; border-bottom: 1px solid #2d2d2d; cursor: pointer; }
+        #song-list li.active { background: #007acc; color: white; }
+        .song-title { font-weight: bold; font-size: 14px; margin-bottom: 2px; }
+        .song-artist { font-size: 12px; color: #aaa; }
+        #content-area { flex: 1; padding: 40px; overflow-y: auto; background: #1e1e1e; }
+        pre { font-family: 'Courier New', Courier, Monaco, monospace; font-size: 18px; line-height: 1.5; white-space: pre-wrap; }
+        .js-error { color: #ff6b6b; font-weight: bold; padding: 20px; border: 2px dashed #ff6b6b; border-radius: 8px; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+
+    <div id="sidebar">
+        <div id="search-box">
+            <input type="text" id="search" placeholder="Search..." oninput="filterSongs()">
+        </div>
+        <ul id="song-list"></ul>
+    </div>
+
+    <div id="content-area">
+        <div id="error-display" style="display:none;" class="js-error"></div>
+        <pre id="song-viewer">Checking system setup...</pre>
+    </div>
+
+    <script>
+        // Catch any hidden JavaScript errors instantly and display them on screen
+        window.onerror = function(message, source, lineno, colno, error) {
+            const errBox = document.getElementById('error-display');
+            errBox.style.display = 'block';
+            errBox.innerHTML = `⚠️ BROWSER JS ERROR:<br>${message}<br>Line: ${lineno}`;
+            return false;
+        };
+
+        let allSongs = [];
+        let filteredSongs = [];
+        let currentIndex = -1;
+
+        async function loadSongs() {
+            document.getElementById('song-viewer').textContent = "Fetching song list from Python...";
+            try {
+                const res = await fetch('/api/songs');
+                if (!res.ok) throw new Error(`Server returned status ${res.status}`);
+                
+                allSongs = await res.json();
+                filteredSongs = [...allSongs];
+                
+                if (allSongs.length === 0) {
+                    document.getElementById('song-viewer').textContent = "Python returned 0 songs. Check folder contents.";
+                    return;
+                }
+                
+                renderSidebar();
+                selectSong(0);
+            } catch (error) {
+                document.getElementById('song-viewer').textContent = `Failed to fetch songs: ${error.message}`;
+            }
+        }
+
+        function renderSidebar() {
+            const list = document.getElementById('song-list');
+            list.innerHTML = '';
+            filteredSongs.forEach((song, index) => {
+                const li = document.createElement('li');
+                li.id = `song-${index}`;
+                if (index === currentIndex) li.className = 'active';
+                li.innerHTML = `<div class="song-title">${song.title}</div><div class="song-artist">${song.artist}</div>`;
+                li.onclick = () => selectSong(index);
+                list.appendChild(li);
+            });
+        }
+
+        async function selectSong(index) {
+            if (index < 0 || index >= filteredSongs.length) return;
+            
+            if (currentIndex !== -1) {
+                const prev = document.getElementById(`song-${currentIndex}`);
+                if (prev) prev.classList.remove('active');
+            }
+            
+            currentIndex = index;
+            const activeLi = document.getElementById(`song-${currentIndex}`);
+            if (activeLi) {
+                activeLi.classList.add('active');
+                activeLi.scrollIntoView({ block: 'nearest' });
+            }
+
+            const song = filteredSongs[currentIndex];
+            try {
+                const res = await fetch(`/api/song/${encodeURIComponent(song.filename)}`);
+                if (res.ok) {
+                    document.getElementById('song-viewer').textContent = await res.text();
+                } else {
+                    document.getElementById('song-viewer').textContent = `Error loading file: ${res.status}`;
+                }
+            } catch (error) {
+                document.getElementById('song-viewer').textContent = `Network error: ${error.message}`;
+            }
+        }
+
+        function filterSongs() {
+            const query = document.getElementById('search').value.toLowerCase();
+            if (query === '') {
+                filteredSongs = [...allSongs];
+            } else {
+                filteredSongs = allSongs.filter(song => 
+                    song.title.toLowerCase().includes(query) || 
+                    song.artist.toLowerCase().includes(query)
+                );
+            }
+            currentIndex = filteredSongs.length > 0 ? 0 : -1;
+            renderSidebar();
+            if (currentIndex !== -1) selectSong(currentIndex);
+            else document.getElementById('song-viewer').textContent = "No songs found.";
+        }
+
+        document.addEventListener('keydown', (e) => {
+            if (document.activeElement.id === 'search') return;
+            if (e.key === 'ArrowRight') {
+                e.preventDefault();
+                if (currentIndex < filteredSongs.length - 1) selectSong(currentIndex + 1);
+            } else if (e.key === 'ArrowLeft') {
+                e.preventDefault();
+                if (currentIndex > 0) selectSong(currentIndex - 1);
+            } else if (e.key === 'ArrowDown') {
+                e.preventDefault();
+                document.getElementById('content-area').scrollBy({ top: 100, behavior: 'smooth' });
+            } else if (e.key === 'ArrowUp') {
+                e.preventDefault();
+                document.getElementById('content-area').scrollBy({ top: -100, behavior: 'smooth' });
+            }
+        });
+
+        // Trigger load
+// Force the script to run immediately instead of waiting for the page to finish "loading"
+console.log("JavaScript is executing...");
+document.getElementById('song-viewer').textContent = "JavaScript initialized! Attempting to connect to Python backend...";
+loadSongs();
+    </script>
+</body>
+</html>
