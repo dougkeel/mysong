@@ -97,5 +97,22 @@ def api_get_song(filename):
 print("Starting up...")
 build_song_index()
 
+@app.route('/api/chord-store')
+def api_get_chord_store():
+    """Serves the master chords.json file with strict cache-invalidation headers."""
+    import json
+    try:
+        if os.path.exists('chords.json'):
+            with open('chords.json', 'r', encoding='utf-8') as f:
+                response = jsonify(json.load(f))
+                # Add explicit cache-busting headers to destroy browser memory state
+                response.headers['Cache-Control'] = 'no-store, no-cache, must-revalidate, max-age=0'
+                response.headers['Pragma'] = 'no-cache'
+                response.headers['Expires'] = '0'
+                return response
+    except Exception as e:
+        print(f"Error reading chords.json: {e}")
+    return jsonify({})
+
 if __name__ == '__main__':
     app.run(debug=True, port=5001)

@@ -1,0 +1,9760 @@
+{
+  "A": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A#": [
+    {
+      "frets": [
+        "x",
+        1,
+        3,
+        3,
+        3,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        6,
+        8,
+        8,
+        7,
+        6,
+        6
+      ],
+      "baseFret": 6,
+      "barre": {
+        "fret": 6,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A#5": [
+    {
+      "frets": [
+        "x",
+        1,
+        3,
+        3,
+        "x",
+        "x"
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        6,
+        8,
+        8,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 6
+    }
+  ],
+  "A#6": [
+    {
+      "frets": [
+        "x",
+        1,
+        3,
+        1,
+        3,
+        1
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        6,
+        8,
+        6,
+        7,
+        8,
+        6
+      ],
+      "baseFret": 6
+    }
+  ],
+  "A#7M": [
+    {
+      "frets": [
+        "x",
+        1,
+        3,
+        2,
+        3,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "A+": [
+    {
+      "frets": [
+        "x",
+        0,
+        3,
+        2,
+        2,
+        1
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        8,
+        7,
+        6,
+        6,
+        5
+      ],
+      "baseFret": 5
+    }
+  ],
+  "A/B": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A/Bb": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A/C#": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A/D": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A/E": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A/F#": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A/G": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A11": [
+    {
+      "frets": [
+        5,
+        7,
+        5,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5
+    }
+  ],
+  "A4": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        3,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        7,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A5": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        "x",
+        "x"
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 5
+    }
+  ],
+  "A6": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        5,
+        6,
+        7,
+        5
+      ],
+      "baseFret": 5
+    }
+  ],
+  "A7": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        0,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        5,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A7/B": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        0,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        5,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A7/C#": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        0,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        5,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A7/E": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        0,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        5,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A7/G": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        0,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        5,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A7sus4": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        3,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        7,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A7sus4/C#": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        3,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        7,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "A9": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        4,
+        2,
+        3
+      ],
+      "baseFret": 1
+    }
+  ],
+  "AM": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Aadd9": [
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        6,
+        5,
+        7
+      ],
+      "baseFret": 5
+    }
+  ],
+  "Aaug": [
+    {
+      "frets": [
+        "x",
+        0,
+        3,
+        2,
+        2,
+        1
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        8,
+        7,
+        6,
+        6,
+        5
+      ],
+      "baseFret": 5
+    }
+  ],
+  "Aaug/C#": [
+    {
+      "frets": [
+        "x",
+        0,
+        3,
+        2,
+        2,
+        1
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        8,
+        7,
+        6,
+        6,
+        5
+      ],
+      "baseFret": 5
+    }
+  ],
+  "Ab": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Ab/Bb": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Ab/Eb": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Ab/F": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Ab7": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        3,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        8,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Abdim": [
+    {
+      "frets": [
+        "x",
+        3,
+        4,
+        3,
+        4,
+        "x"
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        8,
+        "x",
+        9,
+        8,
+        9,
+        "x"
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Abm": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        4,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        8,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Abmaj7": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        4,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Absus": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        6,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        10,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Adim": [
+    {
+      "frets": [
+        5,
+        "x",
+        6,
+        5,
+        6,
+        "x"
+      ],
+      "baseFret": 5
+    }
+  ],
+  "Am": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Am/B": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Am/C": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Am/D": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Am/E": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Am/G": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Am11": [
+    {
+      "frets": [
+        5,
+        7,
+        5,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5
+    }
+  ],
+  "Am6": [
+    {
+      "frets": [
+        5,
+        "x",
+        7,
+        5,
+        7,
+        5
+      ],
+      "baseFret": 5
+    }
+  ],
+  "Am7": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        0,
+        1,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        5,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Am7/E": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        0,
+        1,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        5,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Am7/G": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        0,
+        1,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        5,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Am9": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        4,
+        1,
+        3
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        5,
+        5,
+        5,
+        7
+      ],
+      "baseFret": 5
+    }
+  ],
+  "Amaj7": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        1,
+        2,
+        0
+      ],
+      "baseFret": 1
+    }
+  ],
+  "Amaj7/C#": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        1,
+        2,
+        0
+      ],
+      "baseFret": 1
+    }
+  ],
+  "Asus": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        3,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        7,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Asus2": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        9,
+        9,
+        5,
+        5
+      ],
+      "baseFret": 5
+    }
+  ],
+  "Asus4": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        3,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        7,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "B": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        4,
+        4,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        9,
+        8,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "B/D#": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        4,
+        4,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        9,
+        8,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "B11": [
+    {
+      "frets": [
+        "x",
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "baseFret": 2
+    },
+    {
+      "frets": [
+        7,
+        9,
+        7,
+        7,
+        7,
+        7
+      ],
+      "baseFret": 7
+    }
+  ],
+  "B5": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        4,
+        "x",
+        "x"
+      ],
+      "baseFret": 2
+    },
+    {
+      "frets": [
+        7,
+        9,
+        9,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 7
+    }
+  ],
+  "B6": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        2,
+        4,
+        2
+      ],
+      "baseFret": 2
+    },
+    {
+      "frets": [
+        7,
+        9,
+        7,
+        8,
+        9,
+        7
+      ],
+      "baseFret": 7
+    }
+  ],
+  "B7": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        2,
+        4,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        7,
+        8,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "B7/A": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        2,
+        4,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        7,
+        8,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "B7/D#": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        2,
+        4,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        7,
+        8,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "B7/F": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        2,
+        4,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        7,
+        8,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "B7/F#": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        2,
+        4,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        7,
+        8,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "B7sus4": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        4,
+        5,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        9,
+        9,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "B9": [
+    {
+      "frets": [
+        "x",
+        2,
+        1,
+        2,
+        2,
+        2
+      ],
+      "baseFret": 1
+    }
+  ],
+  "Baug": [
+    {
+      "frets": [
+        7,
+        10,
+        9,
+        8,
+        8,
+        7
+      ],
+      "baseFret": 7
+    }
+  ],
+  "Bb": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bb/A": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bb/Ab": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bb/C": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bb/D": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bb/E": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bb/F": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bb/G": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bb6": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        3,
+        5,
+        3
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        8,
+        10,
+        8,
+        9,
+        10,
+        8
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Bb7": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        3,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        8,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bb9": [
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 2
+    }
+  ],
+  "Bbadd9": [
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        5,
+        3,
+        3
+      ],
+      "baseFret": 2
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        10
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Bbaug": [
+    {
+      "frets": [
+        8,
+        11,
+        10,
+        9,
+        9,
+        8
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Bbdim": [
+    {
+      "frets": [
+        "x",
+        3,
+        4,
+        3,
+        4,
+        "x"
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        8,
+        "x",
+        9,
+        8,
+        9,
+        "x"
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Bbm": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        4,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        8,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bbm/Db": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        4,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        8,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bbmaj7": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        4,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bbmaj9": [
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 2
+    }
+  ],
+  "Bbsus4": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        6,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        10,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bdim": [
+    {
+      "frets": [
+        "x",
+        2,
+        3,
+        2,
+        3,
+        "x"
+      ],
+      "baseFret": 2
+    },
+    {
+      "frets": [
+        7,
+        "x",
+        8,
+        7,
+        8,
+        "x"
+      ],
+      "baseFret": 7
+    }
+  ],
+  "Bdim7": [
+    {
+      "frets": [
+        "x",
+        2,
+        3,
+        2,
+        3,
+        "x"
+      ],
+      "baseFret": 2
+    },
+    {
+      "frets": [
+        7,
+        "x",
+        8,
+        7,
+        8,
+        "x"
+      ],
+      "baseFret": 7
+    }
+  ],
+  "Bm": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        4,
+        3,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        9,
+        7,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bm/A": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        4,
+        3,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        9,
+        7,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bm/D": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        4,
+        3,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        9,
+        7,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bm/F#": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        4,
+        3,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        9,
+        7,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bm11": [
+    {
+      "frets": [
+        "x",
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "baseFret": 2
+    },
+    {
+      "frets": [
+        7,
+        9,
+        7,
+        7,
+        7,
+        7
+      ],
+      "baseFret": 7
+    }
+  ],
+  "Bm6": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        4,
+        3,
+        4
+      ],
+      "baseFret": 2
+    },
+    {
+      "frets": [
+        7,
+        "x",
+        9,
+        7,
+        9,
+        7
+      ],
+      "baseFret": 7
+    }
+  ],
+  "Bm7": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        2,
+        3,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        7,
+        7,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bm7/A": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        2,
+        3,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        7,
+        7,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bm7/E": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        2,
+        3,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        7,
+        7,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Bm9": [
+    {
+      "frets": [
+        "x",
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "baseFret": 0
+    },
+    {
+      "frets": [
+        7,
+        9,
+        7,
+        7,
+        7,
+        9
+      ],
+      "baseFret": 7
+    }
+  ],
+  "Bsus2": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        4,
+        2,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 3
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        11,
+        11,
+        7,
+        7
+      ],
+      "baseFret": 7
+    }
+  ],
+  "Bsus4": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        4,
+        5,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        9,
+        9,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C": [
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C#": [
+    {
+      "frets": [
+        "x",
+        4,
+        6,
+        6,
+        6,
+        4
+      ],
+      "baseFret": 4,
+      "barre": {
+        "fret": 4,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        9,
+        11,
+        11,
+        10,
+        9,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C#5": [
+    {
+      "frets": [
+        "x",
+        4,
+        6,
+        6,
+        "x",
+        "x"
+      ],
+      "baseFret": 4
+    },
+    {
+      "frets": [
+        9,
+        11,
+        11,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 9
+    }
+  ],
+  "C#5/E": [
+    {
+      "frets": [
+        "x",
+        4,
+        6,
+        6,
+        "x",
+        "x"
+      ],
+      "baseFret": 4
+    },
+    {
+      "frets": [
+        9,
+        11,
+        11,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 9
+    }
+  ],
+  "C#7": [
+    {
+      "frets": [
+        "x",
+        4,
+        6,
+        4,
+        6,
+        4
+      ],
+      "baseFret": 4,
+      "barre": {
+        "fret": 4,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        9,
+        11,
+        9,
+        10,
+        9,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C#9": [
+    {
+      "frets": [
+        "x",
+        4,
+        3,
+        4,
+        4,
+        4
+      ],
+      "baseFret": 3
+    }
+  ],
+  "C#dim": [
+    {
+      "frets": [
+        "x",
+        4,
+        5,
+        4,
+        5,
+        "x"
+      ],
+      "baseFret": 4
+    },
+    {
+      "frets": [
+        9,
+        "x",
+        10,
+        9,
+        10,
+        "x"
+      ],
+      "baseFret": 9
+    }
+  ],
+  "C#m": [
+    {
+      "frets": [
+        "x",
+        4,
+        6,
+        6,
+        5,
+        4
+      ],
+      "baseFret": 4,
+      "barre": {
+        "fret": 4,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        9,
+        11,
+        11,
+        9,
+        9,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C#m7": [
+    {
+      "frets": [
+        "x",
+        4,
+        6,
+        4,
+        5,
+        4
+      ],
+      "baseFret": 4,
+      "barre": {
+        "fret": 4,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        9,
+        11,
+        9,
+        9,
+        9,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C#m7/B": [
+    {
+      "frets": [
+        "x",
+        4,
+        6,
+        4,
+        5,
+        4
+      ],
+      "baseFret": 4,
+      "barre": {
+        "fret": 4,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        9,
+        11,
+        9,
+        9,
+        9,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C+": [
+    {
+      "frets": [
+        8,
+        11,
+        10,
+        9,
+        9,
+        8
+      ],
+      "baseFret": 8
+    }
+  ],
+  "C/A": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C/B": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C/Bb": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C/D": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C/E": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C/F": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C/G": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C5": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        "x",
+        "x"
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 8
+    }
+  ],
+  "C6": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        3,
+        5,
+        3
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        8,
+        10,
+        8,
+        9,
+        10,
+        8
+      ],
+      "baseFret": 8
+    }
+  ],
+  "C7": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        3,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        8,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C7/Bb": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        3,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        8,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C7/E": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        3,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        8,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C7sus4": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        6,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        10,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "C9": [
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 2
+    }
+  ],
+  "C9/E": [
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 2
+    }
+  ],
+  "CMaj7": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        4,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Cadd9": [
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        0,
+        3,
+        3
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        0,
+        3,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        5,
+        3,
+        3
+      ],
+      "baseFret": 2
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        10
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Caug": [
+    {
+      "frets": [
+        8,
+        11,
+        10,
+        9,
+        9,
+        8
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Caug/E": [
+    {
+      "frets": [
+        8,
+        11,
+        10,
+        9,
+        9,
+        8
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Cm": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        4,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        8,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Cm7": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        3,
+        4,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        8,
+        8,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Cmaj7": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        4,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Cmaj7/E": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        4,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Cmaj7/G": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        4,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Cmaj9": [
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 2
+    }
+  ],
+  "Cmaj9/B": [
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 2
+    }
+  ],
+  "Csus": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        6,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        10,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Csus2": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 3
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        12,
+        12,
+        8,
+        8
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Csus2/F": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 3
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        12,
+        12,
+        8,
+        8
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Csus4": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        6,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        10,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D": [
+    {
+      "frets": [
+        "x",
+        "x",
+        0,
+        2,
+        3,
+        2
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D#": [
+    {
+      "frets": [
+        "x",
+        6,
+        8,
+        8,
+        8,
+        6
+      ],
+      "baseFret": 6,
+      "barre": {
+        "fret": 6,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        11,
+        13,
+        13,
+        12,
+        11,
+        11
+      ],
+      "baseFret": 11,
+      "barre": {
+        "fret": 11,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D#5": [
+    {
+      "frets": [
+        "x",
+        6,
+        8,
+        8,
+        "x",
+        "x"
+      ],
+      "baseFret": 6
+    },
+    {
+      "frets": [
+        11,
+        13,
+        13,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 11
+    }
+  ],
+  "D#7": [
+    {
+      "frets": [
+        "x",
+        6,
+        8,
+        6,
+        8,
+        6
+      ],
+      "baseFret": 6,
+      "barre": {
+        "fret": 6,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        11,
+        13,
+        11,
+        12,
+        11,
+        11
+      ],
+      "baseFret": 11,
+      "barre": {
+        "fret": 11,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D#7/C#": [
+    {
+      "frets": [
+        "x",
+        6,
+        8,
+        6,
+        8,
+        6
+      ],
+      "baseFret": 6,
+      "barre": {
+        "fret": 6,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        11,
+        13,
+        11,
+        12,
+        11,
+        11
+      ],
+      "baseFret": 11,
+      "barre": {
+        "fret": 11,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D#m": [
+    {
+      "frets": [
+        "x",
+        6,
+        8,
+        8,
+        7,
+        6
+      ],
+      "baseFret": 6,
+      "barre": {
+        "fret": 6,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        11,
+        13,
+        13,
+        11,
+        11,
+        11
+      ],
+      "baseFret": 11,
+      "barre": {
+        "fret": 11,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D#m7": [
+    {
+      "frets": [
+        "x",
+        6,
+        8,
+        6,
+        7,
+        6
+      ],
+      "baseFret": 6,
+      "barre": {
+        "fret": 6,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        11,
+        13,
+        11,
+        11,
+        11,
+        11
+      ],
+      "baseFret": 11,
+      "barre": {
+        "fret": 11,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D+": [
+    {
+      "frets": [
+        10,
+        13,
+        12,
+        11,
+        11,
+        10
+      ],
+      "baseFret": 10
+    }
+  ],
+  "D/A": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D/B": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D/C": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D/C#": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D/E": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D/F": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D/F#": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D/G": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D/Gb": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D11": [
+    {
+      "frets": [
+        "x",
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5
+    },
+    {
+      "frets": [
+        10,
+        12,
+        10,
+        10,
+        10,
+        10
+      ],
+      "baseFret": 10
+    }
+  ],
+  "D5": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        "x",
+        "x"
+      ],
+      "baseFret": 5
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 10
+    }
+  ],
+  "D6": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        5,
+        7,
+        5
+      ],
+      "baseFret": 5
+    },
+    {
+      "frets": [
+        10,
+        12,
+        10,
+        11,
+        12,
+        10
+      ],
+      "baseFret": 10
+    }
+  ],
+  "D6/9": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        5,
+        7,
+        5
+      ],
+      "baseFret": 5
+    },
+    {
+      "frets": [
+        10,
+        12,
+        10,
+        11,
+        12,
+        10
+      ],
+      "baseFret": 10
+    }
+  ],
+  "D7": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        5,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        10,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D7/C": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        5,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        10,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D7/E": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        5,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        10,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D7/F#": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        5,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        10,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D7sus4": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        8,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        12,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D7sus4/G": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        8,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        12,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "D9": [
+    {
+      "frets": [
+        "x",
+        5,
+        4,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 4
+    }
+  ],
+  "D9/F#": [
+    {
+      "frets": [
+        "x",
+        5,
+        4,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 4
+    }
+  ],
+  "Dadd9": [
+    {
+      "frets": [
+        "x",
+        5,
+        4,
+        7,
+        5,
+        5
+      ],
+      "baseFret": 4
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        11,
+        10,
+        12
+      ],
+      "baseFret": 10
+    }
+  ],
+  "Daug": [
+    {
+      "frets": [
+        10,
+        13,
+        12,
+        11,
+        11,
+        10
+      ],
+      "baseFret": 10
+    }
+  ],
+  "Db": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Db/Ab": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Db/B": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Db/Bb": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Db/C": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Db7": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        3,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        8,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Db9": [
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 2
+    }
+  ],
+  "Db9/Ab": [
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 2
+    }
+  ],
+  "Dbm": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        4,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        8,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Dbsus2": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 3
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        12,
+        12,
+        8,
+        8
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Ddim": [
+    {
+      "frets": [
+        "x",
+        5,
+        6,
+        5,
+        6,
+        "x"
+      ],
+      "baseFret": 5
+    },
+    {
+      "frets": [
+        10,
+        "x",
+        11,
+        10,
+        11,
+        "x"
+      ],
+      "baseFret": 10
+    }
+  ],
+  "Dm": [
+    {
+      "frets": [
+        "x",
+        "x",
+        0,
+        2,
+        3,
+        1
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        6,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        10,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Dm/A": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        6,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        10,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Dm/C": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        6,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        10,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Dm6": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        6,
+        7
+      ],
+      "baseFret": 5
+    },
+    {
+      "frets": [
+        10,
+        "x",
+        12,
+        10,
+        12,
+        10
+      ],
+      "baseFret": 10
+    }
+  ],
+  "Dm7": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        5,
+        6,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        10,
+        10,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Dm7/C": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        5,
+        6,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        10,
+        10,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Dmaj7": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        6,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Dmaj9": [
+    {
+      "frets": [
+        "x",
+        5,
+        4,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 4
+    }
+  ],
+  "Dsus": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        8,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        12,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Dsus2": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 3
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        14,
+        14,
+        10,
+        10
+      ],
+      "baseFret": 10
+    }
+  ],
+  "Dsus2/B": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 3
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        14,
+        14,
+        10,
+        10
+      ],
+      "baseFret": 10
+    }
+  ],
+  "Dsus4": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        8,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        12,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "E": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        9,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "E+": [
+    {
+      "frets": [
+        0,
+        3,
+        2,
+        1,
+        1,
+        0
+      ],
+      "baseFret": 1
+    }
+  ],
+  "E/A": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        9,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "E/B": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        9,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "E/E": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        9,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "E/F#": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        9,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "E/G#": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        9,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "E11": [
+    {
+      "frets": [
+        "x",
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "baseFret": 7
+    }
+  ],
+  "E4": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        10,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "E5": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        "x",
+        "x"
+      ],
+      "baseFret": 7
+    }
+  ],
+  "E6": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        1,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        7,
+        9,
+        7
+      ],
+      "baseFret": 7
+    }
+  ],
+  "E7": [
+    {
+      "frets": [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        7,
+        9,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "E7/B": [
+    {
+      "frets": [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        7,
+        9,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "E7sus4": [
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        10,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "E7sus4/B": [
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        10,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "E7sus4/G": [
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        10,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "E9": [
+    {
+      "frets": [
+        "x",
+        7,
+        6,
+        7,
+        7,
+        7
+      ],
+      "baseFret": 6
+    }
+  ],
+  "Eadd9": [
+    {
+      "frets": [
+        "x",
+        7,
+        6,
+        9,
+        7,
+        7
+      ],
+      "baseFret": 6
+    }
+  ],
+  "Eaug": [
+    {
+      "frets": [
+        0,
+        3,
+        2,
+        1,
+        1,
+        0
+      ],
+      "baseFret": 1
+    }
+  ],
+  "Eb": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Eb/Bb": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Eb/F": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Eb/G": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Eb7": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        3,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        8,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Eb9": [
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 2
+    }
+  ],
+  "Ebdim": [
+    {
+      "frets": [
+        "x",
+        3,
+        4,
+        3,
+        4,
+        "x"
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        8,
+        "x",
+        9,
+        8,
+        9,
+        "x"
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Ebm": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        4,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        8,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Ebmaj9": [
+    {
+      "frets": [
+        "x",
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 2
+    }
+  ],
+  "Ebsus": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        6,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        10,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Edim7": [
+    {
+      "frets": [
+        "x",
+        7,
+        8,
+        7,
+        8,
+        "x"
+      ],
+      "baseFret": 7
+    }
+  ],
+  "Em": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        8,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Em/A": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        8,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Em/B": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        8,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Em/G": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        8,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Em6": [
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        8,
+        9
+      ],
+      "baseFret": 7
+    }
+  ],
+  "Em6/B": [
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        8,
+        9
+      ],
+      "baseFret": 7
+    }
+  ],
+  "Em7": [
+    {
+      "frets": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        7,
+        8,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Em7/A": [
+    {
+      "frets": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        7,
+        8,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Em7/B": [
+    {
+      "frets": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        7,
+        8,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Em7/D": [
+    {
+      "frets": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        7,
+        8,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Em7/G": [
+    {
+      "frets": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        7,
+        8,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Em9": [
+    {
+      "frets": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        2
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        5,
+        7,
+        7,
+        7
+      ],
+      "baseFret": 5
+    }
+  ],
+  "Emaj7": [
+    {
+      "frets": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        8,
+        9,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Esus": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        10,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Esus2": [
+    {
+      "frets": [
+        0,
+        2,
+        4,
+        4,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 3
+      }
+    }
+  ],
+  "Esus4": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        10,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F#": [
+    {
+      "frets": [
+        2,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        11,
+        11,
+        11,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F#/A#": [
+    {
+      "frets": [
+        2,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        11,
+        11,
+        11,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F#5": [
+    {
+      "frets": [
+        2,
+        4,
+        4,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 2
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        11,
+        11,
+        "x",
+        "x"
+      ],
+      "baseFret": 9
+    }
+  ],
+  "F#7": [
+    {
+      "frets": [
+        2,
+        4,
+        2,
+        3,
+        2,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        11,
+        9,
+        11,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F#7/A#": [
+    {
+      "frets": [
+        2,
+        4,
+        2,
+        3,
+        2,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        11,
+        9,
+        11,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F#7sus4": [
+    {
+      "frets": [
+        2,
+        4,
+        4,
+        4,
+        2,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        11,
+        11,
+        12,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F#aug": [
+    {
+      "frets": [
+        2,
+        5,
+        4,
+        3,
+        3,
+        2
+      ],
+      "baseFret": 2
+    }
+  ],
+  "F#dim": [
+    {
+      "frets": [
+        2,
+        "x",
+        3,
+        2,
+        3,
+        "x"
+      ],
+      "baseFret": 2
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        10,
+        9,
+        10,
+        "x"
+      ],
+      "baseFret": 9
+    }
+  ],
+  "F#m": [
+    {
+      "frets": [
+        2,
+        4,
+        4,
+        2,
+        2,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        11,
+        11,
+        10,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F#m/A": [
+    {
+      "frets": [
+        2,
+        4,
+        4,
+        2,
+        2,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        11,
+        11,
+        10,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F#m11": [
+    {
+      "frets": [
+        2,
+        4,
+        2,
+        2,
+        2,
+        2
+      ],
+      "baseFret": 2
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "baseFret": 9
+    }
+  ],
+  "F#m7": [
+    {
+      "frets": [
+        2,
+        4,
+        2,
+        2,
+        2,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        11,
+        9,
+        10,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F#m7/B": [
+    {
+      "frets": [
+        2,
+        4,
+        2,
+        2,
+        2,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        11,
+        9,
+        10,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F#m9": [
+    {
+      "frets": [
+        2,
+        4,
+        2,
+        2,
+        2,
+        4
+      ],
+      "baseFret": 2
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        7,
+        9,
+        9,
+        9
+      ],
+      "baseFret": 7
+    }
+  ],
+  "F#sus": [
+    {
+      "frets": [
+        2,
+        4,
+        4,
+        4,
+        2,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        11,
+        11,
+        12,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F#sus4": [
+    {
+      "frets": [
+        2,
+        4,
+        4,
+        4,
+        2,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        9,
+        11,
+        11,
+        12,
+        9
+      ],
+      "baseFret": 9,
+      "barre": {
+        "fret": 9,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F/A": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F/Bb": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F/C": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F/D": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F/Eb": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F/G": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F5": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        "x",
+        "x"
+      ],
+      "baseFret": 8
+    }
+  ],
+  "F6": [
+    {
+      "frets": [
+        1,
+        3,
+        1,
+        2,
+        3,
+        1
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        8,
+        10,
+        8
+      ],
+      "baseFret": 8
+    }
+  ],
+  "F7": [
+    {
+      "frets": [
+        1,
+        3,
+        1,
+        2,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        8,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F7/C": [
+    {
+      "frets": [
+        1,
+        3,
+        1,
+        2,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        8,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F7sus4": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        3,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        11,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "F9": [
+    {
+      "frets": [
+        "x",
+        8,
+        7,
+        8,
+        8,
+        8
+      ],
+      "baseFret": 7
+    }
+  ],
+  "FM7": [
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        9,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Fadd9": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        2,
+        1,
+        3
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        "x",
+        3,
+        2,
+        1,
+        3
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        7,
+        10,
+        8,
+        8
+      ],
+      "baseFret": 7
+    }
+  ],
+  "Fdim": [
+    {
+      "frets": [
+        1,
+        "x",
+        2,
+        1,
+        2,
+        "x"
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        9,
+        8,
+        9,
+        "x"
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Fdim/D": [
+    {
+      "frets": [
+        1,
+        "x",
+        2,
+        1,
+        2,
+        "x"
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        9,
+        8,
+        9,
+        "x"
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Fm": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        1,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        9,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Fm/C": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        1,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        9,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Fm6": [
+    {
+      "frets": [
+        1,
+        "x",
+        3,
+        1,
+        3,
+        1
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        9,
+        10
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Fm7": [
+    {
+      "frets": [
+        1,
+        3,
+        1,
+        1,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        8,
+        9,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Fmaj7": [
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        9,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Fmaj7/A": [
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        9,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Fmaj7/C": [
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        9,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Fmaj9": [
+    {
+      "frets": [
+        "x",
+        8,
+        7,
+        8,
+        8,
+        8
+      ],
+      "baseFret": 7
+    }
+  ],
+  "Fsus": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        3,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        11,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Fsus2": [
+    {
+      "frets": [
+        1,
+        3,
+        5,
+        5,
+        1,
+        1
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 3
+      }
+    }
+  ],
+  "Fsus4": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        3,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        11,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G": [
+    {
+      "frets": [
+        3,
+        2,
+        0,
+        0,
+        0,
+        3
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G#": [
+    {
+      "frets": [
+        4,
+        6,
+        6,
+        5,
+        4,
+        4
+      ],
+      "baseFret": 4,
+      "barre": {
+        "fret": 4,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        11,
+        13,
+        13,
+        13,
+        11
+      ],
+      "baseFret": 11,
+      "barre": {
+        "fret": 11,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G#5": [
+    {
+      "frets": [
+        4,
+        6,
+        6,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 4
+    },
+    {
+      "frets": [
+        "x",
+        11,
+        13,
+        13,
+        "x",
+        "x"
+      ],
+      "baseFret": 11
+    }
+  ],
+  "G#7": [
+    {
+      "frets": [
+        4,
+        6,
+        4,
+        5,
+        4,
+        4
+      ],
+      "baseFret": 4,
+      "barre": {
+        "fret": 4,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        11,
+        13,
+        11,
+        13,
+        11
+      ],
+      "baseFret": 11,
+      "barre": {
+        "fret": 11,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G#7/C": [
+    {
+      "frets": [
+        4,
+        6,
+        4,
+        5,
+        4,
+        4
+      ],
+      "baseFret": 4,
+      "barre": {
+        "fret": 4,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        11,
+        13,
+        11,
+        13,
+        11
+      ],
+      "baseFret": 11,
+      "barre": {
+        "fret": 11,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G#9": [
+    {
+      "frets": [
+        "x",
+        11,
+        10,
+        11,
+        11,
+        11
+      ],
+      "baseFret": 10
+    }
+  ],
+  "G#m": [
+    {
+      "frets": [
+        4,
+        6,
+        6,
+        4,
+        4,
+        4
+      ],
+      "baseFret": 4,
+      "barre": {
+        "fret": 4,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        11,
+        13,
+        13,
+        12,
+        11
+      ],
+      "baseFret": 11,
+      "barre": {
+        "fret": 11,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G#m7": [
+    {
+      "frets": [
+        4,
+        6,
+        4,
+        4,
+        4,
+        4
+      ],
+      "baseFret": 4,
+      "barre": {
+        "fret": 4,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        11,
+        13,
+        11,
+        12,
+        11
+      ],
+      "baseFret": 11,
+      "barre": {
+        "fret": 11,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G#sus4": [
+    {
+      "frets": [
+        4,
+        6,
+        6,
+        6,
+        4,
+        4
+      ],
+      "baseFret": 4,
+      "barre": {
+        "fret": 4,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        11,
+        13,
+        13,
+        14,
+        11
+      ],
+      "baseFret": 11,
+      "barre": {
+        "fret": 11,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G+": [
+    {
+      "frets": [
+        3,
+        6,
+        5,
+        4,
+        4,
+        3
+      ],
+      "baseFret": 3
+    }
+  ],
+  "G/A": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G/B": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G/C": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G/D": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G/E": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G/F": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G/F#": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G/G": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G/G#": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G11": [
+    {
+      "frets": [
+        3,
+        5,
+        3,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "baseFret": 10
+    }
+  ],
+  "G4": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        5,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        13,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G5": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        "x",
+        "x"
+      ],
+      "baseFret": 10
+    }
+  ],
+  "G5/E": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        "x",
+        "x",
+        "x"
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        "x",
+        "x"
+      ],
+      "baseFret": 10
+    }
+  ],
+  "G6": [
+    {
+      "frets": [
+        3,
+        5,
+        3,
+        4,
+        5,
+        3
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        10,
+        12,
+        10
+      ],
+      "baseFret": 10
+    }
+  ],
+  "G7": [
+    {
+      "frets": [
+        3,
+        5,
+        3,
+        4,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        10,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G7sus4": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        5,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        13,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "G9": [
+    {
+      "frets": [
+        "x",
+        10,
+        9,
+        10,
+        10,
+        10
+      ],
+      "baseFret": 9
+    }
+  ],
+  "GMaj7": [
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        11,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Gadd9": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        5
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        9,
+        12,
+        10,
+        10
+      ],
+      "baseFret": 9
+    }
+  ],
+  "Gaug": [
+    {
+      "frets": [
+        3,
+        6,
+        5,
+        4,
+        4,
+        3
+      ],
+      "baseFret": 3
+    }
+  ],
+  "Gb": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Gb7": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        3,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        8,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "Gdim": [
+    {
+      "frets": [
+        3,
+        "x",
+        4,
+        3,
+        4,
+        "x"
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        11,
+        10,
+        11,
+        "x"
+      ],
+      "baseFret": 10
+    }
+  ],
+  "Gm": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        11,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Gm/A": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        11,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Gm/Bb": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        11,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Gm6": [
+    {
+      "frets": [
+        3,
+        "x",
+        5,
+        3,
+        5,
+        3
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        11,
+        12
+      ],
+      "baseFret": 10
+    }
+  ],
+  "Gm6/Bb": [
+    {
+      "frets": [
+        3,
+        "x",
+        5,
+        3,
+        5,
+        3
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        11,
+        12
+      ],
+      "baseFret": 10
+    }
+  ],
+  "Gm6/D": [
+    {
+      "frets": [
+        3,
+        "x",
+        5,
+        3,
+        5,
+        3
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        11,
+        12
+      ],
+      "baseFret": 10
+    }
+  ],
+  "Gm7": [
+    {
+      "frets": [
+        3,
+        5,
+        3,
+        3,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        10,
+        11,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Gm9": [
+    {
+      "frets": [
+        3,
+        5,
+        3,
+        3,
+        3,
+        5
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        8,
+        10,
+        10,
+        10
+      ],
+      "baseFret": 8
+    }
+  ],
+  "Gmaj": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Gmaj7": [
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        11,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Gmaj7/B": [
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        11,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Gmaj7/D": [
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        11,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Gmaj9": [
+    {
+      "frets": [
+        "x",
+        10,
+        9,
+        10,
+        10,
+        10
+      ],
+      "baseFret": 9
+    }
+  ],
+  "Gsus": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        5,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        13,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Gsus/D": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        5,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        13,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "Gsus2": [
+    {
+      "frets": [
+        3,
+        5,
+        7,
+        7,
+        3,
+        3
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 3
+      }
+    }
+  ],
+  "Gsus2/F#": [
+    {
+      "frets": [
+        3,
+        5,
+        7,
+        7,
+        3,
+        3
+      ],
+      "baseFret": 3
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 3
+      }
+    }
+  ],
+  "Gsus4": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        5,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        13,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "a": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        2,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        6,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "ab": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "am": [
+    {
+      "frets": [
+        "x",
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        5,
+        7,
+        7,
+        5,
+        5,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "b": [
+    {
+      "frets": [
+        "x",
+        2,
+        4,
+        4,
+        4,
+        2
+      ],
+      "baseFret": 2,
+      "barre": {
+        "fret": 2,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        7,
+        9,
+        9,
+        8,
+        7,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "c": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "d": [
+    {
+      "frets": [
+        "x",
+        5,
+        7,
+        7,
+        7,
+        5
+      ],
+      "baseFret": 5,
+      "barre": {
+        "fret": 5,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        10,
+        12,
+        12,
+        11,
+        10,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "e": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        9,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "eb": [
+    {
+      "frets": [
+        "x",
+        3,
+        5,
+        5,
+        5,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 1,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        8,
+        10,
+        10,
+        9,
+        8,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 0,
+        "endStr": 5
+      }
+    }
+  ],
+  "em": [
+    {
+      "frets": [
+        0,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "baseFret": 1
+    },
+    {
+      "frets": [
+        "x",
+        7,
+        9,
+        9,
+        8,
+        7
+      ],
+      "baseFret": 7,
+      "barre": {
+        "fret": 7,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "f": [
+    {
+      "frets": [
+        1,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "baseFret": 1,
+      "barre": {
+        "fret": 1,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        8,
+        10,
+        10,
+        10,
+        8
+      ],
+      "baseFret": 8,
+      "barre": {
+        "fret": 8,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ],
+  "g": [
+    {
+      "frets": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "baseFret": 3,
+      "barre": {
+        "fret": 3,
+        "startStr": 0,
+        "endStr": 5
+      }
+    },
+    {
+      "frets": [
+        "x",
+        10,
+        12,
+        12,
+        12,
+        10
+      ],
+      "baseFret": 10,
+      "barre": {
+        "fret": 10,
+        "startStr": 1,
+        "endStr": 5
+      }
+    }
+  ]
+}
