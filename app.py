@@ -1,5 +1,5 @@
 import os
-from flask import Flask, jsonify, render_template, abort
+from flask import Flask, jsonify, render_template, abort, request
 
 app = Flask(__name__)
 
@@ -92,6 +92,36 @@ def api_get_song(filename):
     if os.path.exists(filepath):
         return read_full_file_safely(filepath)
     abort(404)
+
+@app.route('/api/song/<filename>', methods=['POST'])
+def api_save_song(filename):
+    if '..' in filename or filename.startswith('/'):
+        abort(400)
+        
+    filepath = os.path.join(SONGS_DIR, filename)
+    new_content = request.data.decode('utf-8')
+    
+    try:
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.write(new_content)
+        
+        # In-place cache optimization
+        global SONGS_CACHE
+        if SONGS_CACHE:
+            for song in SONGS_CACHE:
+                if song["filename"] == filename:
+                    title, artist = load_lines_safely(filepath)
+                    if not title: title = filename.replace('.txt', '')
+                    if not artist: artist = "Unknown Artist"
+                    song["title"] = title
+                    song["artist"] = artist
+                    break
+                    
+        return jsonify({"success": True})
+    except Exception as e:
+        print(f"Error saving song file {filename}: {e}")
+        return jsonify({"error": str(e)}), 500
+
 
 # Force Python to build the cache right when you run the script
 print("Starting up...")
